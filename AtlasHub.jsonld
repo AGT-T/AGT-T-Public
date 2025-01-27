@@ -54,8 +54,8 @@
   "hashAlgorithm": "blake2b-256",
   "body": {
     "givenName": "AtlasHub",
-    "motivations": "✅ - Growing the Cardano ecosystem<br>\n✅ - Aligning investments to achieve responsible funding<br>\n✅ - Bringing in financial and technical expertise<br>",
-    "objectives": "✅ - Increasing genuine adoption<br>\n✅ - Supporting innovation and viable applications<br>\n✅ - Maintaining strategic direction<br>\n✅ - Ensuring financial stability and security<br>\n✅ - Fostering tooling and infrastructure<br>\n✅ - Protecting investments from fraud<br>",
+    "motivations": "✅ - Growing the Cardano ecosystem\n✅ - Aligning investments to achieve responsible funding\n✅ - Bringing in financial and technical expertise",
+    "objectives": "✅ - Increasing genuine adoption\n✅ - Supporting innovation and viable applications\n✅ - Maintaining strategic direction\n✅ - Ensuring financial stability and security\n✅ - Fostering tooling and infrastructure\n✅ - Protecting investments from fraud",
     "paymentAddress": "addr1qx34pej8rw5k47f9n5rte3xxcktdm8wdxjv6d3hph7sutf9quma0j2qck72xmf9rew9hnpzqnp3yamu2vl8hfmd8nxxqz4ctta",
     "qualifications": "Financial and technical experts"
   }
